@@ -111,3 +111,7 @@ background: #ccc;
   height: 0;
   line-height: 0;
 }
+
+img, video, audio {
+  max-width: 100%;
+}
