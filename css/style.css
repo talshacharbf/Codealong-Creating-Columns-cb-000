@@ -115,3 +115,9 @@ background: #ccc;
 img, video, audio {
   max-width: 100%;
 }
+
+section {
+  margin-bottom: 20px;
+  padding: 20px;
+  
+}
